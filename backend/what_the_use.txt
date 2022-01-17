@@ -1,0 +1,4 @@
+1. @nestjs/config
+2. @nestjs/mongoose
+3. @nestjs/graphql
+4. mongoose
